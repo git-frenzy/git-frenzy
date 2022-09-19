@@ -1,4 +1,4 @@
-<img src = "https://cdn.discordapp.com/attachments/1005189507240435838/1021382987008446505/frenzy.jpg">
+<img src = "https://cdn.discordapp.com/attachments/1005189507240435838/1021385747246362664/Developer2.jpg">
 
 
 <h1 align="center">Hi 👋, I'm frenzy</h1>
