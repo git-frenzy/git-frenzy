@@ -1,8 +1,6 @@
 <img src = "https://cdn.discordapp.com/attachments/1005189507240435838/1021385747246362664/Developer2.jpg">
 
 <h1 align="center">Hi 👋, I'm frenzy</h1>
-<h3 align="center">A passionate dev</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-frenzy&label=Profile%20views&color=0e75b6&style=flat" alt="git-frenzy" /> </p>
 
 - 🔭 I’m currently working on [Tensorflow framework](https://github.com/git-frenzy/tensorflow)
