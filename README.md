@@ -1,5 +1,6 @@
 <img src = "https://cdn.discordapp.com/attachments/385837258768515083/1021381305742671962/Yuppies_Collage_General_LinkdIn_Banner3.gif">
 
+
 <h1 align="center">Hi 👋, I'm frenzy</h1>
 <h3 align="center">A passionate dev</h3>
 
