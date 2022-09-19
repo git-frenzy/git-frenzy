@@ -1,3 +1,4 @@
+<img src = "https://cdn.discordapp.com/attachments/1005189507240435838/1021367707381276703/standard-3.gif">
 <h1 align="center">Hi 👋, I'm frenzy</h1>
 <h3 align="center">A passionate dev</h3>
 
