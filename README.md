@@ -1,4 +1,4 @@
-<img src = "https://cdn.discordapp.com/attachments/385837258768515083/1021381977514987601/Yuppies_Collage_General_LinkdIn_Banner3-min.gif">
+<img src = "https://cdn.discordapp.com/attachments/1005189507240435838/1021382987008446505/frenzy.jpg">
 
 
 <h1 align="center">Hi 👋, I'm frenzy</h1>
