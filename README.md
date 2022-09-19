@@ -1,22 +1,17 @@
 <img src = "https://cdn.discordapp.com/attachments/1005189507240435838/1021385747246362664/Developer2.jpg">
 
-
 <h1 align="center">Hi 👋, I'm frenzy</h1>
 <h3 align="center">A passionate dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-frenzy&label=Profile%20views&color=0e75b6&style=flat" alt="git-frenzy" /> </p>
 
-- 🔭 I’m currently working on [tensorflow](https://github.com/git-frenzy/tensorflow)
+- 🔭 I’m currently working on [Tensorflow framework](https://github.com/git-frenzy/tensorflow)
 
-- 🌱 I’m currently learning **Google Tensorflow framework**
-
-- 👯 I’m looking to collaborate on **AI & ML**
-
-- 🤝 I’m looking for help with **Keras**
+- 🤝 Collaborations open for **AI & ML**
 
 - 💬 Ask me about **Python, C++, Java**
 
-- 📫 How to reach me **https://discord.com/users/666914763573559318**
+- 📫 Discord **https://discord.com/users/666914763573559318**
 
 - ⚡ Fun fact **I'm a certified flex offender.**
 
