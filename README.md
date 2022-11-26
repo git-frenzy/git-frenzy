@@ -10,7 +10,7 @@
 
 - 📫 Discord **https://discord.com/users/666914763573559318**
 
-- ⚡ Fun fact **I'm a certified flex offender.**
+//- ⚡ Fun fact **I'm a certified flex offender.**
 
 
 <p align="left">
