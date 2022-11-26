@@ -6,7 +6,7 @@
 
 - 🤝 Collaborations open for **AI & ML**
 
-- 💬 Ask me about **Python, C++, Java**
+- 💬 Ask me about **Python, C, Java**
 
 - 📫 Discord **https://discord.com/users/666914763573559318**
 
