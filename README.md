@@ -1,6 +1,5 @@
 <img src = "https://cdn.discordapp.com/attachments/1005189507240435838/1021385747246362664/Developer2.jpg">
 <h1 align="center">Hi 👋, I'm frenzy</h1>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-frenzy&label=Profile%20views&color=0e75b6&style=flat" alt="git-frenzy" /> </p>
 
 - 🔭 I’m currently working on [Tensorflow framework](https://github.com/git-frenzy/tensorflow)
@@ -27,6 +26,4 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="kanishksuri" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kanishksuri?trk=profile-badge">Kanishk Suri</a></div>
-
 </p>
