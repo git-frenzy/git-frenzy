@@ -6,7 +6,7 @@
 
 - 🤝 Collaborations open for **AI/ML and App Development**
 
-- 💬 Ask me about **Beaulah Anton**
+- 💬 Ask me about **C, Java & Python**
 
 - 📫 Discord **https://discord.com/users/666914763573559318**
 
