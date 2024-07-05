@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Tensorflow framework](https://github.com/git-frenzy/tensorflow)
 
-- 🤝 Collaborations open for **AI/ML and App Development**
+- 🤝 Collaborations open for **Cloud and Software Development**
 
-- 💬 Ask me about **C, Java & Python**
+- 💬 Ask me about **AWS, Python & JAVA**
 
 - 📫 Discord **https://discord.com/users/666914763573559318**
 
