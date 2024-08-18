@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm frenzy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-frenzy&label=Profile%20views&color=0e75b6&style=flat" alt="git-frenzy" /> </p>
 
-- 🔭 I’m currently working on [Tensorflow framework](https://github.com/git-frenzy/tensorflow)
+- 🔭 I’m currently working on [AWS](https://github.com/git-frenzy/main-website)
 
 - 🤝 Collaborations open for **Cloud and Software Development**
 
