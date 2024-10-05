@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Kanishk</h1>
-<h3 align="center">Dedicated and results-driven Cloud Engineer and Developer with a strong foundation in cloud computing, system architectures, and servers. Pursuing a Computer Science degree, currently learning system development and reliability.</h3>
+<h3 align="center">Cloud It!</h3>
 
 - 🔭 I’m currently working on [Production Linux Server](about.kanishksuri.site)
 
