@@ -1,19 +1,15 @@
 <h1 align="center">Hola 👋, I'm Kanishk</h1>
-<h3 align="center">Cloud It!</h3>
+<h3 align="center">Cloud, Because who wants to deal with hardware?</h3>
 
-- 🔭 I’m currently working on [Production Linux Server](about.kanishksuri.site)
+- 🚀 I’m currently working on [Production Linux Server](about.kanishksuri.site)
 
-- 🌱 I’m currently learning **Cloud, System Reliability & Operations**
+- 😚 I’m currently learning **Cloud, System Reliability & Operations**
 
-- 👯 I’m looking to collaborate on **System Architectural Projects**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kanishksuri/details/projects/](https://www.linkedin.com/in/kanishksuri/details/projects/)
+- 💁🏻‍♂️ I’m looking to collaborate on **System Architectural Projects**
 
 - 💬 Ask me about **AWS, K8s, Linux**
 
-- 📫 How to reach me **admin@kanishksuri.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/kanishksuri/details/experience/](https://www.linkedin.com/in/kanishksuri/details/experience/)
+- 📨 How to reach me **admin@kanishksuri.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
