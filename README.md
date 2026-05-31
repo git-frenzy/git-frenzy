@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AWS, K8s, Linux**
 
-- 📨 How to reach me **admin@kanishksuri.com**
+- 📨 How to reach me **hello@kanishksuri.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
