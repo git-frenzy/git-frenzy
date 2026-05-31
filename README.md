@@ -14,7 +14,7 @@
   <a href="https://www.kanishksuri.com"><img src="https://img.shields.io/badge/Portfolio-kanishksuri.com-2563eb?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/kanishksuri"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.credly.com/users/kanishksuri"><img src="https://img.shields.io/badge/Credly-Verify-ff6b00?style=flat-square&logo=credly&logoColor=white" alt="Credly"/></a>
-  <a href="mailto:kanishksuri@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:hello@kanishksuri.com"><img src="https://img.shields.io/badge/Email-Say%20hi-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -78,19 +78,6 @@ philosophy:  "If it can be automated, it shouldn't be done by hand."
 | 🌐 **[Serverless Cloud Portfolio](https://www.kanishksuri.com)** | A production-ready serverless website on AWS — built for high availability, scalability, and security. | S3 · CloudFront · Lambda · API Gateway · Route 53 |
 | 🎓 **Scholar Connect** | Centralized scholarship-verification portal for **Smart India Hackathon 2023** (Ministry of Social Justice). | Full-stack web · State-level verification |
 | 🐹 **EKS-GO!** | A cloud-native Go web app deployed on Amazon EKS with Docker & Helm. | Go · EKS · Docker · Helm · Kubernetes |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=git-frenzy&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-frenzy&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-frenzy&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
-</p>
 
 ---
 
